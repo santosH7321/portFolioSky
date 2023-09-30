@@ -642,4 +642,7 @@ footer{
     .scroll-icon-box{
         display: none;
     }
+    .icon{
+        border-radius: 50%;
+    }
   }
