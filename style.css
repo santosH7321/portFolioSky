@@ -326,6 +326,7 @@ h3{
     text-align: center;
     font-size: 15px;
     color: #777;
+    margin: 5px;
 }
 .about-btn button{
     position: absolute;
@@ -334,6 +335,8 @@ h3{
     background: var(--first-color);
     color: var(--color-white);
     border-radius: 30px;
+    margin-top: 5px;
+    padding: 10px;
 }
 .about-btn button:hover{
     background: var(--first-color-hover);
